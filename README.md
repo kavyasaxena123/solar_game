@@ -1,1 +1,1 @@
-# solar_game
+# solar_power
